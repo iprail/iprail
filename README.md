@@ -1,6 +1,6 @@
 #iprail##
 
-
+![iprail](docs/assets/iprail/ip rail 72x72.png)
 
 ip based communication for rail systems
 
@@ -9,10 +9,10 @@ ip based communication for rail systems
 
 
 
-See: Installation.md
+See: [Installation.md](docs/Installation.md)
 
 
 #Documentation##
 
 
-See: iprail docs folder
+See: [iprail docs folder](https://github.com/iprail/iprail/tree/master/docs)
