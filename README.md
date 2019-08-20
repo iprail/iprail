@@ -1,4 +1,4 @@
-iprail
+# iprail
 
 ![iprail](docs/assets/iprail/ip_rail_72x72.png)
 
@@ -8,19 +8,19 @@ ip based communication for rail systems
 # Components
 
 
-See: [components](https://github.com/iprail/iprail/components)
+See: [components](#components)
 
 
 # Examples
 
 
-See: [examples](https://github.com/iprail/iprail/examples)
+See: [examples](#examples)
 
 
 # Tools
 
 
-See: [tools](https://github.com/iprail/iprail/tools)
+See: [tools](#tools)
 
 
 # Installation
