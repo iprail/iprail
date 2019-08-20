@@ -8,19 +8,19 @@ ip based communication for rail systems
 # Components
 
 
-See: [components](#components)
+See: [components](https://github.com/iprail/iprail/tree/master/components)
 
 
 # Examples
 
 
-See: [examples](#examples)
+See: [examples](https://github.com/iprail/iprail/tree/master/examples)
 
 
 # Tools
 
 
-See: [tools](#tools)
+See: [tools](https://github.com/iprail/iprail/tree/master/tools)
 
 
 # Installation
