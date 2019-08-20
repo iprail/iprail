@@ -1,6 +1,6 @@
 iprail
 
-![ip_rail_72x72](docs/assets/iprail/ip_rail_72x72.png)
+![iprail](docs/assets/iprail/ip_rail_72x72.png)
 
 ip based communication for rail systems
 
